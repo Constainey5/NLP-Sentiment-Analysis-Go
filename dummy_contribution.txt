@@ -1,1 +1,2 @@
 Commit on 2023-01-04 11:35:22: test: Add unit tests for NLP-Sentiment-Analysis-Go functionality
+Commit on 2023-01-05 10:20:44: Fix incorrect data parsing in NLP-Sentiment-Analysis-Go
