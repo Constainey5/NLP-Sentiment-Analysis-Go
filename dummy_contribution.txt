@@ -6,3 +6,4 @@ Commit on 2023-01-16 13:01:55: style: Format code according to standards in NLP-
 Commit on 2023-01-19 11:21:37: perf: Optimize NLP-Sentiment-Analysis-Go performance
 Commit on 2023-01-25 14:20:47: docs: Update README for NLP-Sentiment-Analysis-Go
 Commit on 2023-01-31 15:43:34: Implement logging mechanism in NLP-Sentiment-Analysis-Go
+Commit on 2023-02-09 14:19:16: test: Add unit tests for NLP-Sentiment-Analysis-Go functionality
