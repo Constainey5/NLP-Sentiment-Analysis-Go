@@ -20,3 +20,4 @@ Commit on 2023-03-13 17:52:30: perf: Optimize NLP-Sentiment-Analysis-Go performa
 Commit on 2023-03-23 10:19:28: Implement database schema in NLP-Sentiment-Analysis-Go
 Commit on 2023-03-30 17:01:16: Enhance data loader in NLP-Sentiment-Analysis-Go
 Commit on 2023-04-03 13:59:15: docs: Update README for NLP-Sentiment-Analysis-Go
+Commit on 2023-04-04 17:46:53: ci: Configure CI/CD pipeline for NLP-Sentiment-Analysis-Go
