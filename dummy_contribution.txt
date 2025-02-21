@@ -138,3 +138,4 @@ Commit on 2025-01-28 17:54:14: Initial commit for NLP-Sentiment-Analysis-Go
 Commit on 2025-01-31 09:54:02: Merge pull request #13 from feature/ui-improvements
 Commit on 2025-02-18 11:14:42: build: Update build configuration for NLP-Sentiment-Analysis-Go
 Commit on 2025-02-20 15:48:12: feat: Add new feature for NLP-Sentiment-Analysis-Go
+Commit on 2025-02-21 17:36:30: ci: Configure CI/CD pipeline for NLP-Sentiment-Analysis-Go
