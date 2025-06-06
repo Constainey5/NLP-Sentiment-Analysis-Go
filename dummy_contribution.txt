@@ -160,3 +160,4 @@ Commit on 2025-05-19 14:47:00: fix: Resolve bug in NLP-Sentiment-Analysis-Go mod
 Commit on 2025-05-19 17:58:35: docs: Update README for NLP-Sentiment-Analysis-Go
 Commit on 2025-06-02 11:35:09: fix: Resolve bug in NLP-Sentiment-Analysis-Go module
 Commit on 2025-06-02 15:31:43: Enhance data loader in NLP-Sentiment-Analysis-Go
+Commit on 2025-06-06 17:36:01: style: Format code according to standards in NLP-Sentiment-Analysis-Go
